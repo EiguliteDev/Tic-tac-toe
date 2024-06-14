@@ -19,6 +19,8 @@ You have two options to get the files and run the game:
 
 ## Running the game
 
+Before running the game, make sure to install Python to your system. You can download Python from [python.org](https://www.python.org/).
+
 Follow these steps:
    - Navigate to the repositories directory.
    - Double-click `run_tictactoe.bat` to start the game.
